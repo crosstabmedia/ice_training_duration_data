@@ -5,7 +5,7 @@ This dataset was complied using Google Searches and ChatGPT Deep Research to loc
 
 NOTE: This dataset is incomplete. Data before 2007 could not be located, and while I believe we can assume that there were no major changes to ICE training durations in between data points, I cannot say for certain. 
 
-If you can find a source for the following missing years, please reach out to me on Instagram @project_sixeight or TikTok @ProjectSixEight:
+If you can find a source for the following missing years, please reach out to me on Instagram or TikTok @crosstabmedia:
 - 2003-2005
 - 2006
 - 2009-2010
